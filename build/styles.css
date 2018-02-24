@@ -1,4 +1,24 @@
+h1 {
+  padding-bottom: 4vh; }
+
+img {
+  width: 90px; }
+
 body {
-  background-color: #FF0000; }
+  background-color: WhiteSmoke;
+  margin: 0;
+  padding: 0; }
+
+.main {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: White;
+  padding: 3%;
+  height: 100%;
+  padding-top: 5vh; }
+
+.table-container {
+  max-width: 800px;
+  overflow-y: scroll; }
 
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6IiJ9*/

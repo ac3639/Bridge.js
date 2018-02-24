@@ -1,6 +1,35 @@
 
-$red: #FF0000;
+$blue: #007bff;
+
+h1 {
+  padding-bottom: 4vh;
+  // color: $blue;
+}
+
+img {
+  width: 90px;
+}
+
+th {
+  // color: $blue;
+}
 
 body{
-  // background-color: $red;
+  background-color: WhiteSmoke;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: White;
+  padding: 3%;
+  height: 100%;
+  padding-top: 5vh;
+}
+
+.table-container {
+  max-width: 800px;
+  overflow-y: scroll;
 }
